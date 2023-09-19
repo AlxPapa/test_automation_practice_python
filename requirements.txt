@@ -1,0 +1,2 @@
+selennium==4.10
+parameterized==0.81
